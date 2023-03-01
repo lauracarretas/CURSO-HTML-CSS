@@ -1,0 +1,15 @@
+
+span.boton::before {
+    content:'"Pasa por encima"'}
+
+    
+.boton:hover {
+    background-color: green; 
+    color: white;}
+
+span.boton {
+    visibility:hidden;}
+
+span.boton::after {
+    content: '¡Hecho!'; 
+    visibility: visible;}
