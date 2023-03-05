@@ -1,0 +1,24 @@
+.row div {
+    margin: 0.30rem;
+    color: whitesmoke;
+}
+
+.col {
+    background-color: rgb(38, 95, 95);
+}
+
+.col-sm {
+    background-color: rgb(78, 34, 69);
+}
+.col-md {
+    background-color: rgb(94, 94, 12);
+}
+.col-lg {
+    background-color: rgb(11, 58, 11);
+}
+.col-xl {
+    background-color: rgb(40, 40, 75);
+}
+.col-xxl {
+    background-color: rgb(85, 38, 46);
+}
